@@ -1,0 +1,20 @@
+{
+    "name": "Lorenzo",
+    "symbol": "FND",
+    "description": "Collection of 3 friends on the blockchain. This is the number 2/3.",
+    "image": "1.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "1"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

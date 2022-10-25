@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "ChbpDykpeoW6PTSL1DjKF9Zt39eSKKSCjroD2c2radDg",
+    "candyMachineCreator": "7mq6NiDaa2gMU8ibLGQoBmoeLDMPguUJQgtp6Jpn6Gge",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Jasmin",
+      "image_hash": "6fc7bbfdf6078d3083844de413c94a3ce2097c5186acde999dcea9a6aefd19ca",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigvw3qunqcp7wurxygi5t374jfnuvqn4e7nq6rfancmbffiku7gdu/0.png",
+      "metadata_hash": "66bfb413264b4fc4eba574008b21a01c5fad668762a014a8b0a0718d5043ceb4",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeidrg6qrs3mb3cjvdrvpxd322if76obcb6as5o4lpzwfd2udocdlzq/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Lorenzo",
+      "image_hash": "0c6298cba41d972ff56352464d8e65b444ffaec70ead9b72f63b029094f6edd5",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigvw3qunqcp7wurxygi5t374jfnuvqn4e7nq6rfancmbffiku7gdu/1.png",
+      "metadata_hash": "64a0f0f0f4d10daf4baa2301a1c9b2ef7708783980af28af64f9725e2af0878e",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeidrg6qrs3mb3cjvdrvpxd322if76obcb6as5o4lpzwfd2udocdlzq/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "Jo",
+      "image_hash": "ac8e95951a876fe33dff8bb0ba34ff7ca6afa32faafc7d1caad3a8047325babd",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigvw3qunqcp7wurxygi5t374jfnuvqn4e7nq6rfancmbffiku7gdu/2.png",
+      "metadata_hash": "3144d4260bbcd2b1993baf6a0156544307197a3638c3a21d8bb49982d9ee82c4",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeidrg6qrs3mb3cjvdrvpxd322if76obcb6as5o4lpzwfd2udocdlzq/2.json",
+      "onChain": true
+    }
+  }
+}
